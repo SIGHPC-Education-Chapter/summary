@@ -25,7 +25,7 @@ The README should contain the following:
 
 | Activity        | One-liner           | Tags for concepts  | Link |
 | --------------- | ------------------- | ------------------ | ---- |
-| Binary Colouring Sheet        | Introduction to Binary Numbers through Colouring In      | Data Representation, Numbers              | TBD      |
+| Binary Colouring Sheet        | Introduction to Binary Numbers through Colouring In      | Data Representation, Numbers              | https://github.com/SIGHPC-Education-Chapter/BinaryColouringSheet     |
 
 # Questions
 
