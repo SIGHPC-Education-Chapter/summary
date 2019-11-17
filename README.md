@@ -2,7 +2,7 @@
 Although this repository is under the SIGHPC Education Chapter, the outreach materials collected here were contributed by various organisations and individuals from across the world. 
 
 # Outreach Activities
-The current list of activities contained in this repository will be added shortely (in the activities_list file)
+The list of activities included in or linked from this repository is in the Activities file. This list should be kept up-to-date. 
 
 # How to Contribute 
 
