@@ -10,7 +10,7 @@ Anyone can contribute to the repository. We are interested in collecting the exi
 
 We are still figuring out what the contribution process should be like. 
 For now, to contribute please follow the following steps:
-   * fill in the metadata template as much as possible
+   * fill in the metadata template (template.md) as much as possible
    * get in touch with us. 
    
 # What to include
