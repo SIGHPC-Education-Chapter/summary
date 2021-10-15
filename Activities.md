@@ -6,3 +6,6 @@ The repository currently contains the following activities:
 4. [The supercompuing challange app](https://github.com/SIGHPC-Education-Chapter/SuperComputingChallenge)
 5. [BCCD](https://github.com/SIGHPC-Education-Chapter/BCCD)
 6. [Piction](https://github.com/SIGHPC-Education-Chapter/Piction)
+7. [The Puzzle Game](https://github.com/llsc-supercloud/hpc-games)
+8. [Be the Scheduler Game](https://github.com/llsc-supercloud/hpc-games)
+9. [Be the Processor Game](https://github.com/llsc-supercloud/hpc-games)
